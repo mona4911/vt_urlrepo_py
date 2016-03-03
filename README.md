@@ -7,6 +7,7 @@ scan_date,url,positives,total,positives detail
 
 
 # Requirement
+python2
 You should put your api key in this script
 
 # Usage
